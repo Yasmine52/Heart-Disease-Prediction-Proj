@@ -5,7 +5,7 @@ Machine learning project to predict heart disease and its severity level based o
 # Project Overview
 Used the **Heart Disease UCI** dataset to build a predictive model. Handled data preprocessing, EDA, and model evaluation using **Random Forest** and **LightGBM**.
 
-## 📊 Results
+# Results
 * **Best Models:** Random Forest & LightGBM
 * **Accuracy:** 88.40% 
 * **Target:** Predicts disease severity from `0` (normal) to `4` (severe).
