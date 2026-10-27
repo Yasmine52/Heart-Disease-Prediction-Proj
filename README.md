@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project ❤️
+# Heart Disease Prediction Project 
 
 Machine learning project to predict heart disease and its severity level based on patient clinical data.
 
